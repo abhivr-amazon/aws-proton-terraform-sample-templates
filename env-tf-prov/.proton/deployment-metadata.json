@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "31cc5a2a-61a0-417c-9759-1a462724a4b1",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:101381735630:environment/env-tf-prov",
+    "templateArn" : "arn:aws:proton:us-east-1:101381735630:environment-template/ecs-ec2-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
