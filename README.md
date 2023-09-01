@@ -1,4 +1,4 @@
-## AWS Proton Sample Terraform Templates
+## AWS Proton Sample Terraform Templates  
 
 This repository is a curated list of sample templates to use within AWS Proton that are authored for integration with [Terraform](https://www.terraform.io/).
 
